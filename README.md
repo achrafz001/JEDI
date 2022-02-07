@@ -1,5 +1,5 @@
 # JEDI
-Joute robotique dans un Environnement type Dédale Inconnu
+Maze Solving : (Frensh) "Joute robotique dans un Environnement type Dédale Inconnu"
 
 We have programmed a rover to solve a maze using right hand algorithm.
 
