@@ -3,4 +3,4 @@ Maze Solving : (Frensh) "Joute robotique dans un Environnement type Dédale Inco
 
 We have programmed a rover to solve a maze using right hand algorithm.
 
-This project was developped in just 20 hours of team work.
+This academic project was developped in just 20 hours of team work.
